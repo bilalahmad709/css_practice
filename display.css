@@ -15,10 +15,36 @@
     color: white;
     font-family: 'poppins',sans-serif;
     margin-left: 10px;
-    padding: 3PX 3PX;
+    padding: 5PX 10PX;
     word-spacing:0px;
+    border-radius: 15px;
 }
 .inline{
     background-color: yellow;
+    display: inline;
 }
-
+#display-none{
+    background-color: blue;
+    display: inline;
+    color: white;
+    font-family: 'poppins',sans-serif;
+    margin-left: 10px;
+    padding: 5PX 10PX;
+    word-spacing:0px;
+    border-radius: 15px;
+}
+#display-block{
+    background-color: blue;
+    display: inline;
+    color: white;
+    font-family: 'poppins',sans-serif;
+    margin-left: 10px;
+    padding: 5PX 10PX;
+    word-spacing:0px;
+    border-radius: 15px;
+}
+#dis-block{
+    background-color: yellowgreen;
+    border: 2px solid blue;
+    display: block;
+}
