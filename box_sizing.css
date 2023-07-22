@@ -1,0 +1,7 @@
+p.box{
+    width: 200px;
+    height: auto;
+    border: 10px solid rgb(9, 9, 83);
+    box-sizing: border-box;
+    padding: 20px;
+}
