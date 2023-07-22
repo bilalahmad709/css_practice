@@ -6,23 +6,19 @@
 
 }
 
-.heading{
-    background-color: rgb(14, 14, 51);
-    border-radius: 10px;
-    padding: 5px 5px;
-}
-div.bg-img{
-    background: url('assets/backg.webp');
-    height: 200px;
-    width: 100vw;
+.container{
+    width: 400px;
+    height: 300px;
+    background-image: url('assets/backg.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.3;
 }
-div.bg-text{
-    font-size: 20px;
-    display: grid;
+.text{
+    width: 400px;
+    height: 300px;
+    display: flex;
     align-items: center;
     justify-content: center;
-    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.8);
+  
 }
