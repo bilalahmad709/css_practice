@@ -1,0 +1,11 @@
+.h2{
+    color: white;
+    background-color: rgb(5, 5, 32);
+    padding: 10px;
+}
+.width{
+    border: 3px solid rgb(31, 31, 87);
+    padding: 5px;
+    min-width: 50px;
+    max-width: 100vw;
+}
